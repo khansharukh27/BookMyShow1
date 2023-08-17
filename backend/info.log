@@ -1,0 +1,25 @@
+{"level":"info","message":"This is an informational log message.","timestamp":"2023-08-15 06:52:21"}
+{"level":"error","message":"App listening on port 8080!","timestamp":"2023-08-15 06:52:21"}
+{"data":{"__v":0,"_id":"64dad36bb7ad289302a6d527","movie":"The personal history of David Copperfield","seat":[{"label":"0","seat":"A1"},{"label":"0","seat":"A2"},{"label":"1","seat":"A3"},{"label":"0","seat":"D1"},{"label":"0","seat":"D2"},{"label":"0","seat":"D3"}],"timeSlot":"03:00 PM"},"level":"info","message":"Last data of database:","timestamp":"2023-08-15 06:52:52"}
+{"level":"info","message":"This is an informational log message.","timestamp":"2023-08-15 07:18:41"}
+{"level":"error","message":"App listening on port 8080!","timestamp":"2023-08-15 07:18:41"}
+{"level":"info","message":"This is an informational log message.","timestamp":"2023-08-15 07:44:14"}
+{"level":"error","message":"App listening on port 8080!","timestamp":"2023-08-15 07:44:14"}
+{"level":"info","message":"This is an informational log message.","timestamp":"2023-08-15 08:36:35"}
+{"level":"error","message":"App listening on port 8080!","timestamp":"2023-08-15 08:36:35"}
+{"level":"info","message":"This is an informational log message.","timestamp":"2023-08-15 12:32:59"}
+{"level":"error","message":"App listening on port 8080!","timestamp":"2023-08-15 12:32:59"}
+{"level":"info","message":"This is an informational log message.","timestamp":"2023-08-15 16:43:45"}
+{"level":"error","message":"App listening on port 8080!","timestamp":"2023-08-15 16:43:45"}
+{"data":{"__v":0,"_id":"64db5dfbca80dc830251b043","movie":"The personal history of David Copperfield","seat":[{"label":"1","seat":"A1"},{"label":"0","seat":"A2"},{"label":"0","seat":"A3"},{"label":"0","seat":"D1"},{"label":"0","seat":"D2"},{"label":"0","seat":"D3"}],"timeSlot":"10:00 AM"},"level":"info","message":"Last data of database:","timestamp":"2023-08-15 16:44:03"}
+{"level":"info","message":"This is an informational log message.","timestamp":"2023-08-15 17:36:03"}
+{"level":"error","message":"App listening on port 8080!","timestamp":"2023-08-15 17:36:03"}
+{"level":"info","message":"This is an informational log message.","timestamp":"2023-08-15 20:02:44"}
+{"level":"error","message":"App listening on port 8080!","timestamp":"2023-08-15 20:02:44"}
+{"level":"info","message":"This is an informational log message.","timestamp":"2023-08-15 23:31:08"}
+{"level":"error","message":"App listening on port 8080!","timestamp":"2023-08-15 23:31:08"}
+{"data":{"__v":0,"_id":"64dbbdd7af7a4825b4af80a1","movie":"Tenet","seat":[{"label":"0","seat":"A1"},{"label":"0","seat":"A2"},{"label":"0","seat":"A3"},{"label":"1","seat":"D1"},{"label":"0","seat":"D2"},{"label":"0","seat":"D3"}],"timeSlot":"10:00 AM"},"level":"info","message":"Last data of database:","timestamp":"2023-08-15 23:33:03"}
+{"data":{"__v":0,"_id":"64dbc364af7a4825b4af80a3","movie":"Tenet","seat":[{"label":"0","seat":"A1"},{"label":"0","seat":"A2"},{"label":"0","seat":"A3"},{"label":"1","seat":"D1"},{"label":"0","seat":"D2"},{"label":"0","seat":"D3"}],"timeSlot":"10:00 AM"},"level":"info","message":"Last data of database:","timestamp":"2023-08-15 23:56:45"}
+{"data":{"__v":0,"_id":"64dbca80af7a4825b4af80a5","movie":"Tenet","seat":[{"label":"0","seat":"A1"},{"label":"0","seat":"A2"},{"label":"0","seat":"A3"},{"label":"1","seat":"D1"},{"label":"0","seat":"D2"},{"label":"0","seat":"D3"}],"timeSlot":"10:00 AM"},"level":"info","message":"Last data of database:","timestamp":"2023-08-16 00:27:10"}
+{"data":{"__v":0,"_id":"64dbca88af7a4825b4af80a7","movie":"Tenet","seat":[{"label":"0","seat":"A1"},{"label":"0","seat":"A2"},{"label":"0","seat":"A3"},{"label":"1","seat":"D1"},{"label":"0","seat":"D2"},{"label":"0","seat":"D3"}],"timeSlot":"10:00 AM"},"level":"info","message":"Last data of database:","timestamp":"2023-08-16 00:27:12"}
+{"data":{"__v":0,"_id":"64dbcc66af7a4825b4af80a9","movie":"Tenet","seat":[{"label":"0","seat":"A1"},{"label":"0","seat":"A2"},{"label":"0","seat":"A3"},{"label":"1","seat":"D1"},{"label":"0","seat":"D2"},{"label":"0","seat":"D3"}],"timeSlot":"10:00 AM"},"level":"info","message":"Last data of database:","timestamp":"2023-08-16 00:35:11"}

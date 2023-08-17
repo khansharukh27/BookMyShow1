@@ -1,0 +1,80 @@
+body {
+
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.selected{
+  background-color: aqua;
+}
+.container-fluid{
+  background: linear-gradient(to bottom, #ffcccc, #ccccff);
+
+}
+.navbar-brand {
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: cursive;
+  background-image: url(https://snipboard.io/0lHsKC.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* Add more styles as needed */
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.image{
+  background-image:url( 'https://snipboard.io/WGqpPz.jpg');
+  background-size:cover;
+}
+.card{
+  background: linear-gradient(to bottom, #ffcccc, #ccccff);
+  transition: all ease 0.5;
+  overflow: hidden; 
+  
+}
+.card-img-top{
+  width:auto
+}
+
+.btn:hover{
+  box-shadow:5px 5px 0px #000 ;
+  transition: all ease 0.5; 
+}
+.card:hover{
+  
+  box-shadow:5px 5px 0px #000 ;
+}
+.card image{
+  transition: all ease 1s;
+
+
+}
+.seat-type-item{
+  box-shadow: 5px 5px 0px #000;
+}
+.time-slot{
+  box-shadow: 5px 5px 0px #000;
+}
+.movies{
+  box-shadow: 5px 5px 0px #000;
+}
+
+.strong{
+  background-color: #fff;
+      padding: 10px;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      margin: 10px;
+}
+.strong strong{
+  color: #333;
+      font-size: 18px;
+      font-weight: bold;
+}
