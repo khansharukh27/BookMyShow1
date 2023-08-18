@@ -12,7 +12,7 @@ The movie booked by the user will be stored in database and is retrived and show
  [https://documenter.getpostman.com/view/27379827/2s9Xy5LqSH](https://documenter.getpostman.com/view/27379827/2s9Xy5LqSH)
  
  ## API link:
-[https://newshow.cyclic.cloud/api/booking](https://newshow.cyclic.cloud/api/booking)
+[https://bookmyshowss.cyclic.cloud/api/booking](https://bookmyshowss.cyclic.cloud))
 
 
 
