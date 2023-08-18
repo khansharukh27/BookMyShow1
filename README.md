@@ -5,7 +5,7 @@ The movie booked by the user will be stored in database and is retrived and show
 -------------------
 
 ## ❤️ Deployed link
-## Link to website -> [http://bookmyshowss.netlify.app](http://bookmyshowss.netlify.app)
+## Link to website -> [http://bookmyshowss.netlify.app](http://bookmyshowss.netlify.app/api/booking)
 
 -------------------
  ## API Documentaion Link:
