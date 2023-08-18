@@ -14,7 +14,7 @@ The movie booked by the user will be stored in database and is retrived and show
  ## API link:
 [https://bookmyshowss.cyclic.cloud/api/booking](https://bookmyshowss.cyclic.cloud/api/booking)
 
-
+when anyone click the api link its show the last  json data that user submit through thee [http://bookmyshowss.netlify.app](http://bookmyshowss.netlify.app).
 
 #### Overall UI of the app.
 
