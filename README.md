@@ -5,14 +5,14 @@ The movie booked by the user will be stored in database and is retrived and show
 -------------------
 
 ## ❤️ Deployed link
-## Link to website -> [http://bookmyshowss.netlify.app](http://bookmyshowss.netlify.app/api/booking)
+## Link to website -> [http://bookmyshowss.netlify.app](http://bookmyshowss.netlify.app)
 
 -------------------
  ## API Documentaion Link:
  [https://documenter.getpostman.com/view/27379827/2s9Xy5LqSH](https://documenter.getpostman.com/view/27379827/2s9Xy5LqSH)
  
  ## API link:
-[https://bookmyshowss.cyclic.cloud/api/booking](https://bookmyshowss.cyclic.cloud))
+[https://bookmyshowss.cyclic.cloud/api/booking](https://bookmyshowss.cyclic.cloud/api/booking)
 
 
 
